@@ -2,4 +2,4 @@
 
 ### Worldwide Military Safety Consortium tests the effectiveness of walls against bullets
 
-#### Output Link : https://vishnupriya-whitehatjr.github.io/c21-v2-BulletsAndWalls-WMSC/
+#### Output Link : http://127.0.0.1:5500/c21-v2-BulletsAndWalls-WMSC-master/
